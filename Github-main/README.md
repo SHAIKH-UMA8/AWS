@@ -9,7 +9,7 @@
 ```
 mkdir new
 touch index.txt
-echo “My name is Aaman I am DevOps engineer” >                 
+echo “My name is Umar I am DevOps engineer” >                 
 index.txt
 ssh-keygen (generate new key pair)
 cat /new/.ssh/<pubkey> (copy public key and paste it in github setting )
